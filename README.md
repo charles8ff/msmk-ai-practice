@@ -1,3 +1,3 @@
-# msmk-ai-practice
+# MSMK AI Practice
 
-UNIT 27 movidas
+UNIT 27 Apuntes, prácticas y derivados.
